@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fyukcell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mehmet Yuksel.
+- 👀 I’m interested in Wed & Desktop applications written using anything under .Net
+- 🌱 I’m currently learning Blazor.
+- 💞️ I’m looking to collaborate on anything that sounds smart.
+- 📫 How to reach me, I`ll find you if I want to.
 
 <!---
 fyukcell/fyukcell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
