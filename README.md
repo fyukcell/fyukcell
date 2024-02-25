@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mehmet Yuksel.
-- 👀 I’m interested in Web & Desktop applications written using anything under .Net
-- 🌱 I’m currently learning Swift.
-- 📫 How to reach me, I`ll find you if I need to.
+- 👀 I do C# apps, Embedded systems, and some scripting to make my life easier.
 
 <!---
 fyukcell/fyukcell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
